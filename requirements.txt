@@ -1,5 +1,6 @@
-exotedrf==2.0.0
 matplotlib
 numpy
 astropy
 ipython
+jwst
+exotedrf
